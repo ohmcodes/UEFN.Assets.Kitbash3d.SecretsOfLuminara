@@ -1,4 +1,4 @@
-# UEFN.Assets.Kitbash3d.SecretsOfLuminara
+# UEFN.Assets.Kitbash3d.SecretsOfTheLuminara
 
 This project file is been removed to their website after the Secrets of Luminara contest feel free to use it since the kit is free for everyone (Not free as free) please check the license of the kit
 
