@@ -11,7 +11,7 @@ Download Zip File
 - [Download](https://github.com/ohmcodes/UEFN.Assets.Kitbash3d.SecretsOfLuminara/releases/tag/1.0.0)
 
 Video Tutorial
-- View
+- [View on YOUTUBE](https://youtu.be/LvdG7J1nUsE)
 
 Other Guides
 - [View Link](https://kitbash3d.com/a/blog/secrets-of-the-luminara-uefn)
